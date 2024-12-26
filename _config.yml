@@ -31,7 +31,7 @@ url: "friishproduce.github.io/" # the base hostname & protocol for your site, e.
 github_username:  CatmanFan
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
