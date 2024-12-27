@@ -1,9 +1,5 @@
 _site
 .sass-cache
-.bundle
 .jekyll-cache
 .jekyll-metadata
 vendor
-Gemfile.lock
-build.bat
-*.gem
