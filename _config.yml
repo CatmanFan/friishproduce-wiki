@@ -23,7 +23,7 @@ title: FriishProduce
 description: >- # this means to ignore newlines until "baseurl:"
   World's first WYSIWYG injector for Wii Virtual Console channels
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "friishproduce.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "friishproduce.wiki/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: CatmanFan
 
