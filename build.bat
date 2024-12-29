@@ -17,5 +17,4 @@ IF defined TRUE (
 )
 
 :RUN
-cls
 bundle install & bundle exec jekyll serve
