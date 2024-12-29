@@ -13,7 +13,7 @@ git commit -m "%txt%"
 git push -u origin main
 
 :RUN
-start /wait "bundle install"
+start /wait bundle install
 bundle exec jekyll serve
 cls
 echo Done. Press any key to exit.
