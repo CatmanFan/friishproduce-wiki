@@ -2,7 +2,9 @@ title: FriishProduce
 description: World's first WYSYWYG injector for Wii Virtual Console
 author: "CatmanFan / Mr. Lechkar"
 
-theme: minima
+theme:
+  minima:
+    skin: dark
 
 base_url: /
 repository: CatmanFan/friishproduce-wiki

@@ -263,6 +263,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   logger
+  minima
   webrick (~> 1.8)
 
 BUNDLED WITH
