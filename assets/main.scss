@@ -2,8 +2,7 @@
 ---
 
 @import
-  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
-  "minima/initialize";
+  "minima/skins/dark";
 
 /* @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap'); */
 body {

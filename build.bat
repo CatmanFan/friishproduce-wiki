@@ -2,7 +2,7 @@
 git add .
 cls
 set txt=
-set /P "txt=Message to commit:"
+set /P "txt=Message to commit: "
 cls
 
 set "TRUE="
