@@ -1,7 +1,9 @@
 ---
 ---
 
-@import "minima";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
+  "minima/initialize";
 
 /* @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap'); */
 body {
